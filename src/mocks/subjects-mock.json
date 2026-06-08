@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "HTML",
+        "subtitle": "HyperText Markup Language",
+        "description": "HTML is the standard markup language for creating web pages and web applications. It provides the structure of a webpage, allowing you to define elements such as headings, paragraphs, links, images, and more.",
+        "technology": "html"
+    },
+    {
+        "id": 2,
+        "title": "CSS",
+        "subtitle": "Cascading Style Sheets",
+        "description": "CSS is a stylesheet language used to describe the presentation of a document written in HTML or XML. It allows you to control the layout, colors, fonts, and overall visual appearance of a webpage.",
+        "technology": "css"
+    },
+    {
+        "id": 3,
+        "title": "JavaScript",
+        "subtitle": "Programming Language",
+        "description": "JavaScript is a versatile programming language that enables interactive and dynamic features on websites. It allows you to create responsive user interfaces, handle events, manipulate the DOM, and build complex web applications.",
+        "technology": "js"
+    },
+    {
+        "id": 4,
+        "title": "Node",
+        "subtitle": "Runtime Environment",
+        "description": "Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. It allows you to run JavaScript code on the server-side.",
+        "technology": "nodejs"
+    },
+    {
+        "id": 5,
+        "title": "React",
+        "subtitle": "JavaScript Library",
+        "description": "React is a popular JavaScript library for building user interfaces. It allows you to create reusable UI components and efficiently update and render them based on changes in data.",
+        "technology": "react"
+    },
+    {
+        "id": 6,
+        "title": "Angular",
+        "subtitle": "JavaScript Framework",
+        "description": "Angular is a TypeScript-based open-source web application framework. It provides a comprehensive solution for building single-page applications with a focus on maintainability and scalability.",
+        "technology": "angular"
+    }
+]
